@@ -1,1 +1,1 @@
-# Undersampled-sEMG-vs.-Doubly-Accelerated-Signals-A-Comparative-Analysis
+# Impact_of_Downsampling_on_sEMG_signals
