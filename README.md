@@ -22,6 +22,4 @@
 
 The primary focus of this analysis is to understand how downsampling affects sEMG signals acquired during different activities and hand postures, both at normal and fast paces. The experiment involves signal preprocessing, downsampling, and correlation analysis to gain insights into the impact of downsampling on sEMG data.
 
-Please note that the dataset used in this analysis is from the EMAHA DB7 dataset, which is currently not publicly available.
-
-For more details on the analysis and the findings, refer to the code files and visualizations provided in this repository.
+For more details on the analysis and the findings, refer to the code files and visualizations provided in this repository. A .pdf file for the code is also available.
