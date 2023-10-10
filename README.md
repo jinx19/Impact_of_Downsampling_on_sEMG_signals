@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive analysis of the impact of downsampling on sEMG (surface electromyography) signals. The dataset used for this analysis is sourced from the EMAHA DB7 dataset (which is currently not publicly available). The dataset consists of sEMG signals recorded from four channels on the right hand while performing various Activities of Daily Living (ADLs) in three different hand postures, both at normal and fast paces.
+--This repository contains a comprehensive analysis of the impact of downsampling on sEMG (surface electromyography) signals. The dataset used for this analysis is sourced from the EMAHA DB7 dataset (which is currently not publicly available). The dataset consists of sEMG signals recorded from four channels on the right hand while performing various Activities of Daily Living (ADLs) in three different hand postures, both at normal and fast paces.
 
 ## Files and Contents
 
